@@ -1,5 +1,5 @@
 $ git init
 $ git add -A
-$ git commit
-$ git remote add origin git@github.com:TrevorBurnham/hello-npm.git
+$ git commit -m "Add cute octocat story"
+$ git remote add origin git@github.com:kentucky-roberts/dad-photo-site.git
 $ git push -u origin master
