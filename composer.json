@@ -1,0 +1,17 @@
+{
+    "name": "croberts/dad-photo-02",
+    "description": "Photo website for pops",
+    "require": {
+        "twbs/bootstrap": "~3.3",
+        "twbs/bootstrap-sass": "~3.3",
+        "twig/twig": "~1.16"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kentucky-roberts",
+            "email": "john@heels.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}

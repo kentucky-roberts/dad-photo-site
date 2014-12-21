@@ -1,0 +1,22 @@
+{
+  "name": "dad-photo-02",
+  "version": "0.1.0",
+  "authors": [
+    "kentucky-roberts <john@heels.com>"
+  ],
+  "description": "Photography website for pops.",
+  "main": "dad-photo-02",
+  "keywords": [
+    "photography",
+    "website"
+  ],
+  "license": "MIT",
+  "homepage": "http://localhost:8888/dad-photo-02",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

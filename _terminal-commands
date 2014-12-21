@@ -1,0 +1,5 @@
+$ git init
+$ git add -A
+$ git commit
+$ git remote add origin git@github.com:TrevorBurnham/hello-npm.git
+$ git push -u origin master

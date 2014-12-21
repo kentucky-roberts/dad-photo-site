@@ -1,0 +1,28 @@
+{
+  "name": "dad-photo-02",
+  "version": "0.1.0",
+  "description": "photo site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dad-photo-site"
+  },
+  "keywords": [
+    "photos"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bundleDependencies": [
+    "grunt",
+    "grunt-contrib-concat",
+    "grunt-contrib-watch"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
